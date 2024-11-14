@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(169, 215, 215);
+}
+header{
+    background-color: rgb(13, 10, 183);
+    padding: 1em;
+}
+h1{
+    color: rgb(169, 215, 215);
+    font-size: 1.5em;
+    text-align: center;
+}
+main{
+    background-color: #fff;
+    width: 800px;
+    margin-top: 1em;
+    border-radius: 1em;
+    padding: 1em;
+}
